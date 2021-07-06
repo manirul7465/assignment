@@ -8,3 +8,14 @@ border-radius:20px;}
 .box{display:flex;padding-top:60px}
 .haif-width{width:50%;padding-left:130px}
 .haif-width img{width:80%;}
+
+
+.back{background-image:url(img/7.png);}
+.boxf{display:flex;}
+.hwidth{width:50%;padding-left:130px;padding-top:80px}
+.text{padding-top:150px;padding-right:50px;padding-left:10px; padding-bottom:30px}
+
+ 
+.button{text-decoration:none; color:white; padding:15px;
+background-image:linear-gradient(orange,tomato);
+border-radius:20px;}
