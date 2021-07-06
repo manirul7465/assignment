@@ -49,6 +49,25 @@ width:100%;
 }
 .txt{
 padding:10px;
-background-color:#fff;
-margin-:0px
-} 
+background-color:#fff;}
+
+
+
+
+
+.parent{display:flex;margin-top:80px;
+box-shadow:1px 1px 3px gray;
+text-align:center;
+margin-right:200px;
+border-radius:20px;
+margin-left:200px}
+
+span{color:orange}
+
+.quoto{ padding:10px;
+
+background:black; text-align:center;
+ 
+ margin-top:50px
+ }
+ 
