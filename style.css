@@ -6,7 +6,7 @@ span{color:orange;}
 background-image:linear-gradient(orange,tomato);
 border-radius:20px;}
 .box{display:flex;}
-.haif-width{width:50%;}
+.haif-width{width:50%; padding-left:80px;padding-top:80px;}
 .haif-width img{width:80%;}
 
 
@@ -23,4 +23,32 @@ border-radius:20px;}
 
 
 .introduce{text-align:center}
+.box{
+	
+width:100%;
+display:flex;
+flex-wrap:warp;	
+justify-content:space-around;
+	
+	
+}
+.card{
+box-shadow:1px 1px 3px gray;
+width:350px;
+text-align:center;
+margin-top:30px;
+padding:15px;
+border-radius:20px;
 
+}
+
+
+
+.card img{
+width:100%;
+}
+.txt{
+padding:10px;
+background-color:#fff;
+margin-:0px
+} 
